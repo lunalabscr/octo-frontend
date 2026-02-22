@@ -1,0 +1,175 @@
+{
+  "Navbar": {
+    "features": "Funcionalidades",
+    "useCases": "Casos de Uso",
+    "pricing": "Precios",
+    "faq": "Preguntas Frecuentes",
+    "bookNow": "Reservar Ahora"
+  },
+  "Hero": {
+    "badge": "La Plataforma #1 de Reservas",
+    "title": "Optimiza Tu Negocio con OctoBook",
+    "subtitle": "Analíticas, reservaciones inteligentes, gestión de personal y notificaciones automáticas en una plataforma robusta.",
+    "primaryCta": "Comienza Gratis",
+    "secondaryCta": "Ver Demo"
+  },
+  "About": {
+    "badge": "Nuestra Solución",
+    "title": "Todo lo que necesitas para crecer",
+    "subtitle": "Un conjunto completo de herramientas creadas específicamente para negocios basados en citas.",
+    "analytics": {
+      "title": "Analíticas Profundas",
+      "desc": "Rastrea tu crecimiento, ingresos y retención de clientes en un solo tablero."
+    },
+    "reservation": {
+      "title": "Reservas Inteligentes",
+      "desc": "Permite reservas 24/7 sin superposiciones ni conflictos."
+    },
+    "staff": {
+      "title": "Gestión de Personal",
+      "desc": "Administra horarios, horas de trabajo y comisiones para todo tu equipo."
+    },
+    "categories": {
+      "title": "Categorías y Servicios",
+      "desc": "Organiza tu oferta para que los clientes encuentren exactamente lo que necesitan."
+    },
+    "calendars": {
+      "title": "Calendarios Interactivos",
+      "desc": "Interfaces de calendario de arrastrar y soltar para un flujo de trabajo fluido."
+    },
+    "notifications": {
+      "title": "Notificaciones por Email y Móvil",
+      "desc": "Los recordatorios automáticos aseguran que los clientes nunca se pierdan una cita."
+    }
+  },
+  "UseCases": {
+    "badge": "Industrias",
+    "title": "Creado para todo negocio de citas",
+    "subtitle": "Descubre cómo OctoBook se adapta a tus necesidades específicas.",
+    "salons": {
+      "title": "Salones y Spas",
+      "desc": "Administra múltiples estilistas, equipos y horarios variables sin esfuerzo."
+    },
+    "clinics": {
+      "title": "Clínicas y Salud",
+      "desc": "Reserva segura de pacientes con formularios personalizados y recordatorios automáticos."
+    },
+    "gyms": {
+      "title": "Gimnasios y Fitness",
+      "desc": "Programación de clases, gestión de capacidad y listas de espera automáticas."
+    },
+    "studios": {
+      "title": "Fotografía y Estudios",
+      "desc": "Reserva sesiones, solicita depósitos y sincroniza con tu calendario personal."
+    }
+  },
+  "Pricing": {
+    "badge": "Precios",
+    "title": "Precios simples y transparentes",
+    "subtitle": "Sin cargos ocultos. Crece al ritmo de tu negocio.",
+    "monthly": "Mensual",
+    "yearly": "Anual",
+    "starter": {
+      "name": "Inicial",
+      "price": "$29",
+      "desc": "Perfecto para profesionales independientes",
+      "features": [
+        "1 Miembro del staff",
+        "Hasta 500 citas/mes",
+        "Analíticas Básicas",
+        "Notificaciones por Email",
+        "Soporte Estándar"
+      ]
+    },
+    "pro": {
+      "name": "Profesional",
+      "price": "$79",
+      "desc": "Para equipos y negocios en crecimiento",
+      "features": [
+        "Hasta 5 Miembros",
+        "Citas Ilimitadas",
+        "Analíticas Avanzadas",
+        "Notificaciones por SMS y Email",
+        "Soporte Prioritario",
+        "Diseño Personalizado"
+      ]
+    },
+    "enterprise": {
+      "name": "Empresa",
+      "price": "Personalizado",
+      "desc": "Soluciones dedicadas para grandes operaciones",
+      "features": [
+        "Personal Ilimitado",
+        "Citas Ilimitadas",
+        "Reportes a Medida",
+        "Ejecutivo de Cuenta",
+        "Acceso a la API",
+        "Múltiples Sucursales"
+      ]
+    },
+    "cta": "Comienza Ya",
+    "contact": "Contáctanos"
+  },
+  "FAQ": {
+    "badge": "FAQ",
+    "title": "Preguntas Frecuentes",
+    "subtitle": "Todo lo que necesitas saber sobre OctoBook.",
+    "q1": {
+      "question": "¿Puedo integrar OctoBook con Google Calendar?",
+      "answer": "¡Sí! Ofrecemos sincronización bidireccional con Google Calendar, Outlook y Apple Calendar."
+    },
+    "q2": {
+      "question": "¿Hay un límite en la cantidad de personal que puedo agregar?",
+      "answer": "Los planes iniciales incluyen 1 miembro, los profesionales hasta 5, y el plan Empresa permite personal ilimitado."
+    },
+    "q3": {
+      "question": "¿Puedo personalizar la página de reservas con mi marca?",
+      "answer": "Absolutamente. Puedes agregar tu logo y colores de marca a la página de reservas."
+    },
+    "q4": {
+      "question": "¿Ofrecen soporte técnico si tengo problemas?",
+      "answer": "Sí, todos los planes incluyen soporte. Los planes Pro y Empresa incluyen soporte prioritario."
+    }
+  },
+  "Demo": {
+    "title": "Reserva una Cita",
+    "subtitle": "Experimenta cómo OctoBook gestiona las reservas.",
+    "step1": "1. Servicio",
+    "step2": "2. Profesional",
+    "step3": "3. Fecha y Hora",
+    "step4": "4. Tus Datos",
+    "step5": "5. Resumen",
+    "back": "Atrás",
+    "next": "Continuar",
+    "selectService": "Selecciona un Servicio",
+    "duration": "Duración",
+    "price": "Precio",
+    "selectProfessional": "Selecciona un Profesional",
+    "anyProfessional": "Cualquier Profesional",
+    "selectDateTime": "Selecciona Fecha y Hora",
+    "morning": "Mañana",
+    "afternoon": "Tarde",
+    "yourDetails": "Tus Datos",
+    "fullName": "Nombre Completo",
+    "namePlaceholder": "Juan Pérez",
+    "emailAddress": "Correo Electrónico",
+    "emailPlaceholder": "juan@ejemplo.com",
+    "phoneNumber": "Número de Teléfono",
+    "phonePlaceholder": "+1 (555) 000-0000",
+    "review": "Resumen de la Reserva",
+    "confirm": "Confirmar Reserva",
+    "successTitle": "¡Reserva Confirmada!",
+    "successDesc": "Tu cita de prueba ha sido agendada con éxito.",
+    "returnHome": "Volver al Inicio"
+  },
+  "Footer": {
+    "about": "Acerca de OctoBook",
+    "description": "El SaaS de reservas robusto para Salones, Clínicas, Gimnasios y más. Potenciando la agenda de tu negocio.",
+    "links": "Enlaces Rápidos",
+    "newsletter": "Boletín Info",
+    "subscribe": "Suscríbete para recibir actualizaciones.",
+    "emailPlaceholder": "Tu correo electrónico",
+    "subscribeBtn": "Suscribirse",
+    "rights": "Todos los derechos reservados."
+  }
+}

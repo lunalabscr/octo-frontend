@@ -1,0 +1,175 @@
+{
+  "Navbar": {
+    "features": "Features",
+    "useCases": "Use Cases",
+    "pricing": "Pricing",
+    "faq": "FAQ",
+    "bookNow": "Book Now"
+  },
+  "Hero": {
+    "badge": "The #1 Booking Platform",
+    "title": "Streamline Your Business with OctoBook",
+    "subtitle": "Analytics, smart reservations, staff management, and automated notifications all in one robust platform.",
+    "primaryCta": "Start for Free",
+    "secondaryCta": "Watch Demo"
+  },
+  "About": {
+    "badge": "Our Solution",
+    "title": "Everything you need to grow",
+    "subtitle": "A complete suite of tools built specifically for appointment-based businesses.",
+    "analytics": {
+      "title": "Deep Analytics",
+      "desc": "Track your growth, revenue, and customer retention all in one dashboard."
+    },
+    "reservation": {
+      "title": "Smart Reservations",
+      "desc": "Let customers book 24/7 with zero double-bookings or conflicts."
+    },
+    "staff": {
+      "title": "Staff Management",
+      "desc": "Manage schedules, working hours, and commissions for your entire team."
+    },
+    "categories": {
+      "title": "Categories & Services",
+      "desc": "Organize your offerings so clients find exactly what they need instantly."
+    },
+    "calendars": {
+      "title": "Interactive Calendars",
+      "desc": "Drag-and-drop calendar interfaces for seamless workflow."
+    },
+    "notifications": {
+      "title": "Email & Mobile Notifications",
+      "desc": "Automated reminders ensure clients never miss an appointment again."
+    }
+  },
+  "UseCases": {
+    "badge": "Industries",
+    "title": "Built for every appointment business",
+    "subtitle": "Discover how OctoBook adapts to your specific needs.",
+    "salons": {
+      "title": "Salons & Spas",
+      "desc": "Manage multiple stylists, equipment, and variable time slots effortlessly."
+    },
+    "clinics": {
+      "title": "Clinics & Health",
+      "desc": "Secure patient booking with custom intake forms and automated reminders."
+    },
+    "gyms": {
+      "title": "Gyms & Fitness",
+      "desc": "Class scheduling, capacity management, and automatic waitlists."
+    },
+    "studios": {
+      "title": "Photography & Studios",
+      "desc": "Book sessions, require deposits, and sync with your personal calendar."
+    }
+  },
+  "Pricing": {
+    "badge": "Pricing",
+    "title": "Simple, transparent pricing",
+    "subtitle": "No hidden fees. Scale as your business grows.",
+    "monthly": "Monthly",
+    "yearly": "Yearly",
+    "starter": {
+      "name": "Starter",
+      "price": "$29",
+      "desc": "Perfect for solo professionals",
+      "features": [
+        "1 Staff Member",
+        "Up to 500 bookings/mo",
+        "Basic Analytics",
+        "Email Notifications",
+        "Standard Support"
+      ]
+    },
+    "pro": {
+      "name": "Professional",
+      "price": "$79",
+      "desc": "For growing teams and businesses",
+      "features": [
+        "Up to 5 Staff Members",
+        "Unlimited bookings",
+        "Advanced Analytics",
+        "SMS & Email Notifications",
+        "Priority Support",
+        "Custom Branding"
+      ]
+    },
+    "enterprise": {
+      "name": "Enterprise",
+      "price": "Custom",
+      "desc": "Dedicated solutions for large operations",
+      "features": [
+        "Unlimited Staff",
+        "Unlimited bookings",
+        "Custom Reports",
+        "Dedicated Account Manager",
+        "API Access",
+        "Multiple Locations"
+      ]
+    },
+    "cta": "Get Started",
+    "contact": "Contact Us"
+  },
+  "FAQ": {
+    "badge": "FAQ",
+    "title": "Frequently Asked Questions",
+    "subtitle": "Everything you need to know about OctoBook.",
+    "q1": {
+      "question": "Can I integrate OctoBook with Google Calendar?",
+      "answer": "Yes! We offer two-way sync with Google Calendar, Outlook, and Apple Calendar."
+    },
+    "q2": {
+      "question": "Is there a limit on how many staff members I can add?",
+      "answer": "Starter plans include 1 staff member, Professional plans support up to 5, and Enterprise allows unlimited staff."
+    },
+    "q3": {
+      "question": "Can I customize the booking page to match my brand?",
+      "answer": "Absolutely. You can add your logo, brand colors, and custom imagery to the booking page."
+    },
+    "q4": {
+      "question": "Do you offer customer support if I run into issues?",
+      "answer": "Yes, all plans include support. Pro and Enterprise plans include priority text and email support."
+    }
+  },
+  "Demo": {
+    "title": "Book an Appointment",
+    "subtitle": "Experience how OctoBook handles scheduling.",
+    "step1": "1. Service",
+    "step2": "2. Professional",
+    "step3": "3. Date & Time",
+    "step4": "4. Your Details",
+    "step5": "5. Review",
+    "back": "Back",
+    "next": "Continue",
+    "selectService": "Select a Service",
+    "duration": "Duration",
+    "price": "Price",
+    "selectProfessional": "Select a Professional",
+    "anyProfessional": "Any Professional",
+    "selectDateTime": "Select Date & Time",
+    "morning": "Morning",
+    "afternoon": "Afternoon",
+    "yourDetails": "Your Details",
+    "fullName": "Full Name",
+    "namePlaceholder": "Jane Doe",
+    "emailAddress": "Email Address",
+    "emailPlaceholder": "jane@example.com",
+    "phoneNumber": "Phone Number",
+    "phonePlaceholder": "+1 (555) 000-0000",
+    "review": "Review Booking",
+    "confirm": "Confirm Booking",
+    "successTitle": "Booking Confirmed!",
+    "successDesc": "Your test appointment has been booked successfully.",
+    "returnHome": "Return Home"
+  },
+  "Footer": {
+    "about": "About OctoBook",
+    "description": "The robust Booking SaaS for Salons, Clinics, Gyms, and more. Empowering your business scheduling.",
+    "links": "Quick Links",
+    "newsletter": "Newsletter",
+    "subscribe": "Subscribe to our newsletter for updates.",
+    "emailPlaceholder": "Enter your email",
+    "subscribeBtn": "Subscribe",
+    "rights": "All rights reserved."
+  }
+}
