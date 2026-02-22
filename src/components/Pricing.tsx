@@ -199,20 +199,27 @@ export default function Pricing() {
                     )}
                 </HStack>
 
-                <Button
-                  w="full"
-                  size="lg"
-                  bg={plan.isFeatured ? "brand.500" : "brand.50"}
-                  color={plan.isFeatured ? "white" : "brand.900"}
-                  _hover={{
-                    bg: plan.isFeatured ? "brand.100" : "brand.100",
-                    color: "brand.900",
-                  }}
-                  borderRadius="xl"
-                  fontWeight="bold"
+                <a
+                  href="https://wa.me/1234567890?text=Hello%21%20I%20am%20interested%20in%20OctoBook%20Pricing."
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  style={{ width: "100%", textDecoration: "none" }}
                 >
-                  {plan.cta}
-                </Button>
+                  <Button
+                    w="full"
+                    size="lg"
+                    bg={plan.isFeatured ? "brand.500" : "brand.50"}
+                    color={plan.isFeatured ? "white" : "brand.900"}
+                    _hover={{
+                      bg: plan.isFeatured ? "brand.100" : "brand.100",
+                      color: "brand.900",
+                    }}
+                    borderRadius="xl"
+                    fontWeight="bold"
+                  >
+                    {plan.cta}
+                  </Button>
+                </a>
 
                 <VStack align="flex-start" gap={4} mt={4} w="full">
                   {plan.features.map((feature, idx) => (
